@@ -1,0 +1,19 @@
+.playerList-container {
+  display: flex;
+}
+.player-details {
+  width: 70%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.player-details h1 {
+  text-align: center;
+}
+.club-details {
+  width: 30%;
+  border-left: 1px solid lightgray;
+}
+.club-details h1 {
+  text-align: center;
+}

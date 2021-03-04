@@ -1,0 +1,139 @@
+{
+  "playerInfo": [
+    {
+      "_id": "001",
+      "age": 35,
+      "img": "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/492.png",
+      "name": "Mahmudullah",
+      "Team": "Bangladesh",
+      "Roll": "All-rounder",
+      "Salary": 45000
+    },
+    {
+      "_id": "002",
+      "age": 34,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBW-jH-XmQwwgwFzhiTRmj2IUne3r2Dtv_wQ&usqp=CAU",
+      "name": "Mushfiqur Rahim",
+      "Team": "Bangladesh",
+      "Roll": "Wicket Keeper",
+      "Salary": 50000
+    },
+    {
+      "_id": "003",
+      "age": 26,
+      "img": "https://resources.pulse.icc-cricket.com/players/284/1594.png",
+      "name": "Mustafizur Rahman",
+      "Team": "Bangladesh",
+      "Roll": "Bowler",
+      "Salary": 40000
+    },
+    {
+      "_id": "004",
+      "age": 28,
+      "img": "https://resources.pulse.icc-cricket.com/players/284/1135.png",
+      "name": "Rubel Hossain",
+      "Team": "Bangladesh",
+      "Roll": "All-rounder",
+      "Salary": 30000
+    },
+    {
+      "_id": "005",
+      "age": 30,
+      "img": "https://resources.pulse.icc-cricket.com/players/284/287.png",
+      "name": "Tamim Iqbal",
+      "Team": "Bangladesh",
+      "Roll": "Batsman",
+      "Salary": 55000
+    },
+    {
+      "_id": "006",
+      "age": 35,
+      "img": "https://gossipgist.com/uploads/26808/shakib-al-hasan-cricketworldcup.jpg",
+      "name": "Sakib Al Hasan",
+      "Team": "Bangladesh",
+      "Roll": "All-rounder",
+      "Salary": 60000
+    },
+    {
+      "_id": "007",
+      "age": 26,
+      "img": "https://www.mykhel.com/thumb/247x100x233/cricket/players/0/5570.1506323939.jpg",
+      "name": "Somya Sarker",
+      "Team": "Bangladesh",
+      "Roll": "Batsman",
+      "Salary": 42000
+    },
+    {
+      "_id": "008",
+      "age": 40,
+      "img": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mashrafe-Mortaza-CWC19.ashx",
+      "name": "Mashrafi Bin Mortaza",
+      "Team": "Bangladesh",
+      "Roll": "Bowler",
+      "Salary": 50000
+    },
+    {
+      "_id": "009",
+      "age": 25,
+      "img": "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/1839.png",
+      "name": "Taskin Ahmed",
+      "Team": "Bangladesh",
+      "Roll": "Bowler",
+      "Salary": 30000
+    },
+    {
+      "_id": "010",
+      "age": 40,
+      "img": "https://st3.cricketcountry.com/wp-content/uploads/cricket/20140522042341.jpeg",
+      "name": "Chirst Gayle",
+      "Team": "Westindies",
+      "Roll": "All-rounder",
+      "Salary": 60000
+    },
+    {
+      "_id": "011",
+      "age": 41,
+      "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-169846755-e1522243467713.jpg",
+      "name": "Polard",
+      "Team": "Westindies",
+      "Roll": "All-rounder",
+      "Salary": 55000
+    },
+    {
+      "_id": "012",
+      "age": 42,
+      "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-897480444-e1523262785102.jpg",
+      "name": "Dwayne Bravo",
+      "Team": "Westindies",
+      "Roll": "All-rounder",
+      "Salary": 52000
+    },
+    {
+      "_id": "013",
+      "age": 45,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQag6QIYvcFVLeiEPZRNx11f5l4MqJxrO0u0w&usqp=CAU",
+      "name": "Shahid Afreedi",
+      "Team": "Pakistan",
+      "Roll": "All-rounder",
+      "Salary": 50000
+    },
+    {
+      "_id": "014",
+      "age": 42,
+      "img": "https://st3.cricketcountry.com/wp-content/uploads/cricket/20140522031030.jpeg",
+      "name": "Umar Akmal",
+      "Team": "Pakistan",
+      "Roll": "Wicket keeper",
+      "Salary": 35000
+    },
+    {
+      "_id": "015",
+      "age": 35,
+      "img": "https://resources.pulse.icc-cricket.com/players/284/2896.png",
+      "name": "Mohammad Amir",
+      "Team": "Pakistan",
+      "Roll": "Bowler",
+      "Salary": 40000
+    }
+  ]
+}
